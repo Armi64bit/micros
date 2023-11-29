@@ -1,7 +1,6 @@
+/*
 package com.example.clubservice.services;
 
-import com.example.clubservice.entites.CLubMembers;
-import com.example.clubservice.entites.Club;
 import com.example.clubservice.repositories.ClubMembersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -41,3 +40,4 @@ public class ClubMembersService implements IClubMembersService {
 
 
 
+*/
